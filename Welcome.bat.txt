@@ -1,0 +1,3 @@
+ECho off
+Echo Hello World
+pause
